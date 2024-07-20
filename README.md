@@ -1,0 +1,2 @@
+# yanya-js
+Javascript repo
